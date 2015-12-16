@@ -1,3 +1,4 @@
 the first sentence
 the second sentence
-the third sentence AND
+the third sentence and
+
